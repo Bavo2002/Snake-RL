@@ -1,0 +1,6 @@
+pycodestyle==2.6.0
+win32gui==221.6
+pygame==1.9.6
+numpy==1.16.3
+Keras==2.3.1
+matplotlib==3.2.0
